@@ -1,4 +1,4 @@
-class Color_Halil extends Animator  {
+class ColorfulStick_Halil extends Animator  {
     constructor() {
         super();
         this.author = 'M A Eyler'
